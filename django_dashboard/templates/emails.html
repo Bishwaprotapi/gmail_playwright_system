@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gmail Dashboard</title>
+</head>
+
+<body>
+
+<h2>Gmail Emails</h2>
+
+<table border="1">
+
+<tr>
+<th>Sender</th>
+<th>Subject</th>
+<th>Time</th>
+</tr>
+
+{% for email in emails %}
+
+<tr>
+<td>{{ email.0 }}</td>
+<td>{{ email.1 }}</td>
+<td>{{ email.2 }}</td>
+</tr>
+
+{% endfor %}
+
+</table>
+
+</body>
+</html>
