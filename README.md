@@ -153,7 +153,7 @@ Indentation errors → Use 4 spaces
 ## 👨‍💻 Author
 
 Bishwaprotap Ray\
-CSE Student \| Aspiring Machine Learning Engineer\
+CSE Student \| Machine Learning Engineer\
 GitHub: https://github.com/Bishwaprotapi
 
 ------------------------------------------------------------------------
@@ -167,8 +167,3 @@ This project demonstrates:
 -   Database management\
 -   File export systems\
 -   Full-stack extension with Django
-
-------------------------------------------------------------------------
-
-🔥 A complete real-world automation project for learning and portfolio
-use.
